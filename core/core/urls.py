@@ -18,6 +18,8 @@ from django.contrib import admin
 from django.urls import path
 from api import views
 urlpatterns = [
+    path('stucreate/',views.create),
+    path('stuapi/',views.student_api),
     path('stuinfo/<int:pk>',views.student_detail),
     path('stulist/',views.student_list),
     path('admin/', admin.site.urls),
