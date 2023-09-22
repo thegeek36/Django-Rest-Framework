@@ -9,7 +9,8 @@
               <li> Feild Level Validators</li>
               <li> Object Level Validators</li>
               <li> Validators.</li>
-            </ul> I also learned about Model Serializers in DRF.
+            </ul> I also learned about Model Serializers in DRF and how to use validators in model serializers.
+                  Created some dummy APIs and tested the functionalities.
   </li>
 </ul>
 <p><b>Youtube Link : </b> https://www.youtube.com/playlist?list=PLbGui_ZYuhijTKyrlu-0g5GcP9nUp_HlN </p>
