@@ -1,12 +1,12 @@
 from rest_framework import serializers
 from .models import Student
+
 #Serializer class for serializing objects.
 class StudentSerializer(serializers.Serializer):
     id = serializers.IntegerField()
     name = serializers.CharField(max_length=100)
     roll = serializers.IntegerField()
     city = serializers.CharField(max_length=100)
-
 
 #Validators
 def start_with_r(value):
@@ -42,4 +42,4 @@ class CreateStudentSerializer(serializers.Serializer):
             raise serializers.ValidationError("City must be Rourkela")
         return data
 
-    
+
