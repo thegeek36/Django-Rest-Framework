@@ -1,16 +1,28 @@
-# Django-Rest-Framework
-<h2>I am maintaining this repository to store and showcase my learnings of DRF (Django Rest Framework)</h2>
-<p>I am following a youtube playlist for learning DRF.</p>
-<ul>
-  <li>Day 1: I learned about APIs fundamentals, its application and advantages.Furthermore I created a dummy database and a serializer class to GET the JSON response from the database.</li>
-  <li>Day 2: I learned about serializers in depth and developed some CRUD apis using function based views also implemented the same in class based views.</li>
-  <li>Day 3: I learned about validators is APIs using different types of validators:
-            <ul> 
-              <li> Feild Level Validators</li>
-              <li> Object Level Validators</li>
-              <li> Validators.</li>
-            </ul> I also learned about Model Serializers in DRF and how to use validators in model serializers.
-                  Created some dummy APIs and tested the functionalities.
-  </li>
-</ul>
-<p><b>Youtube Link : </b> https://www.youtube.com/playlist?list=PLbGui_ZYuhijTKyrlu-0g5GcP9nUp_HlN </p>
+# DRF Learning Journey 🚀
+
+Welcome to my DRF (Django Rest Framework) learning repository! Here's a brief overview of my progress so far:
+
+## Day 1: API Fundamentals 🌐
+
+- Explored the fundamentals of APIs, their applications, and advantages.
+- Created a dummy database.
+- Developed a serializer class to retrieve JSON responses from the database.
+
+## Day 2: Serializer Mastery 📝
+
+- Dived deeper into serializers, a core DRF concept.
+- Implemented CRUD (Create, Read, Update, Delete) APIs using both function-based and class-based views.
+
+## Day 3: Validators and Model Serializers 🛡️
+
+- Learned about different types of API validators:
+  - Field Level Validators
+  - Object Level Validators
+  - Custom Validators
+- Explored the power of Model Serializers in DRF.
+- Demonstrated how to use validators in Model Serializers.
+- Created and tested various dummy APIs to validate functionalities.
+
+Stay tuned for more updates 📚👩‍💻📈
+
+Feel free to explore the code and documentation to see my progress in action.If you'd like to follow along with my learning, check out the <a href = "https://www.youtube.com/playlist?list=PLbGui_ZYuhijTKyrlu-0g5GcP9nUp_HlN"> <b>YouTube playlist </b>  </a> from where I am learning DRF.Happy coding! 😊🚀
