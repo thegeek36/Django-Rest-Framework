@@ -17,8 +17,9 @@ def get_data(id = None):
     data ={}
     if id is not None:
         data = {'id':id}
+    headers = {'Content-Type': 'application/json'}
     json_data = json.dumps(data)
-    req = requests.get(url = URL,data = json_data)
+    req = requests.get(url = URL,headers = headers,data = json_data)
     data = req.json()
     print(data)
 
@@ -30,12 +31,13 @@ def post_data():
     'roll': 161,
     'city':'Rourkela'
     }
+    headers = {'Content-Type': 'application/json'}
     json_data = json.dumps(data)  
-    r = requests.post(url = URL,data = json_data)
+    r = requests.post(url = URL,headers = headers ,data = json_data)
     data = r.json()
     print(data)
 
-post_data()
+#post_data()
 
 def update_data():
     data = {
@@ -60,4 +62,4 @@ def delete_data():
     data = r.json()
     print(data)
 
-#delete_data()
+delete_data()
