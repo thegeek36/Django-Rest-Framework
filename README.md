@@ -28,6 +28,7 @@ Welcome to my DRF (Django Rest Framework) learning repository! Here's a brief ov
 - Explored Function-Based API Views and their applications.
 - Studied Class-Based API Views and their benefits.
 - Delved into Request and Response objects, understanding them in-depth for crafting robust APIs.
+- Developed CRUD APIs using class and function based views.
 
 Stay tuned for more updates 📚👩‍💻📈
 
