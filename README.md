@@ -1,4 +1,4 @@
-# DRF Learning Journey 🚀
+# DRF Learning Journey 📚🚀
 
 Welcome to my DRF (Django Rest Framework) learning repository! Here's a brief overview of my progress so far:
 
