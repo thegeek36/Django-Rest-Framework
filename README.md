@@ -37,6 +37,11 @@ Welcome to my DRF (Django Rest Framework) learning repository! Here's a brief ov
 - Gained insights into Concrete View Classes for more specialized views.
 - Well-documented code for better understanding and future reference.
 
+## Day 6: Mastering ViewSets 🌟
+
+- Introduced to ViewSets in Django, a powerful tool for simplifying view creation.
+- Enhanced knowledge and practical skills for building APIs efficiently.
+
 Stay tuned for more updates 📚👩‍💻📈
 
 Feel free to explore the code and documentation to see my progress in action.If you'd like to follow along with my learning, check out the <a href = "https://www.youtube.com/playlist?list=PLbGui_ZYuhijTKyrlu-0g5GcP9nUp_HlN"> <b>YouTube playlist </b>  </a> from where I am learning DRF. Happy coding! 😊🚀
