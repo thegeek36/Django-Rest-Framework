@@ -42,7 +42,7 @@ Welcome to my DRF (Django Rest Framework) learning repository! Here's a brief ov
 - Introduced to ViewSets in Django, a powerful tool for simplifying view creation.
 - Enhanced knowledge and practical skills for building APIs efficiently.
 
-## Day 7: Model ViewSets to make CRUD API easier
+## Day 7: Model ViewSets to make CRUD API easier 📚
 
 - Learned about ModelViewSets in DRF and how it makes the code simple and easy.
 - Developed  a CRUD API using the same.
