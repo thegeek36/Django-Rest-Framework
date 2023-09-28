@@ -47,6 +47,12 @@ Welcome to my DRF (Django Rest Framework) learning repository! Here's a brief ov
 - Learned about ModelViewSets in DRF and how it makes the code simple and easy.
 - Developed  a CRUD API using the same.
 
+## Day 8: Authentication and Permissions 🔐
+
+- Learned about Authentication classes in DRF, including Basic Authentication.
+- Explored Permissions to control access to API endpoints.
+- Created different types of users and thoroughly tested the APIs for security and functionality.
+
 Stay tuned for more updates 📚👩‍💻📈
 
 Feel free to explore the code and documentation to see my progress in action.If you'd like to follow along with my learning, check out the <a href = "https://www.youtube.com/playlist?list=PLbGui_ZYuhijTKyrlu-0g5GcP9nUp_HlN"> <b>YouTube playlist </b>  </a> from where I am learning DRF. Happy coding! 😊🚀
