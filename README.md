@@ -53,6 +53,20 @@ Welcome to my DRF (Django Rest Framework) learning repository! Here's a brief ov
 - Explored Permissions to control access to API endpoints.
 - Created different types of users and thoroughly tested the APIs for security and functionality.
 
+## Day 9: Function-Based Authentication 🤖
+
+- Practiced Function-Based Authentication methods to enhance API security.
+- Strengthened knowledge of authentication mechanisms within DRF.
+
+## Day 10: Token Authentication and Creation 🗝️
+- Introduced Token Authentication in DRF for securing API endpoints.
+- Explored methods to create tokens using signals, CLI, and the admin panel.
+- Pushed Day 10 updates along with Day 11 due to a mistake.
+
+## Day 11: CLI API Requests and CRUD Operations 🌐
+- Learned how to make API requests from the command line using the HTTPie library.
+- Performed CRUD operations on APIs using the command line.
+- Continuously advancing my skills in DRF for practical application.
 
 Stay tuned for more updates 📚👩‍💻📈
 
