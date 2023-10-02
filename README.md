@@ -68,6 +68,10 @@ Welcome to my DRF (Django Rest Framework) learning repository! Here's a brief ov
 - Performed CRUD operations on APIs using the command line.
 - Continuously advancing my skills in DRF for practical application.
 
+## Day 12: Custom Authentication and its operations
+
+- Got insights on custom authentication and how it works.
+- Documentated the code for more understanding
 Stay tuned for more updates 📚👩‍💻📈
 
 Feel free to explore the code and documentation to see my progress in action.If you'd like to follow along with my learning, check out the <a href = "https://www.youtube.com/playlist?list=PLbGui_ZYuhijTKyrlu-0g5GcP9nUp_HlN"> <b>YouTube playlist </b>  </a> from where I am learning DRF. Happy coding! 😊🚀
