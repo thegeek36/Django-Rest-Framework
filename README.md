@@ -74,4 +74,26 @@ Welcome to my DRF (Django Rest Framework) learning repository! Here's a brief ov
 - Documentated the code for more understanding
 Stay tuned for more updates 📚👩‍💻📈
 
+## Day 13-14: JSON Web Token (JWT) and Simple JWT 🌐
+
+- Explored JSON Web Tokens (JWT) and Simple JWT in Django.
+- Practiced various methods and techniques to work with JWT for authentication and security.
+
+## Day 15: Throttling in DRF ⏳
+
+- Learned about Throttling in DRF for controlling and managing incoming requests.
+- Enhanced knowledge in maintaining the stability and performance of APIs.
+
+## Day 16: Filtering in DRF 🎯
+
+- Gained insights into Filtering in DRF, allowing fine-grained control over data retrieval.
+- Expanded expertise in data manipulation and presentation within APIs.
+
+## Day 17: Search and Order Filtering 🧐
+
+- Learned about search filtering to make API data easily discoverable.
+- Explored ordering to organize data in the desired sequence.
+- Continuing to refine my API skills for optimal user experience.
+- Stay tuned for more updates on my DRF learning journey! 📚👩‍💻📈
+
 Feel free to explore the code and documentation to see my progress in action.If you'd like to follow along with my learning, check out the <a href = "https://www.youtube.com/playlist?list=PLbGui_ZYuhijTKyrlu-0g5GcP9nUp_HlN"> <b>YouTube playlist </b>  </a> from where I am learning DRF. Happy coding! 😊🚀
